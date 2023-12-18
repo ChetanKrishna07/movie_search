@@ -32,4 +32,4 @@ streamlit run frontend.py
 ```
 
 Reference:
-How to Use Elasticsearch in Python[https://dylancastillo.co/elasticsearch-python/]
+[How to Use Elasticsearch in Python](https://dylancastillo.co/elasticsearch-python/)
