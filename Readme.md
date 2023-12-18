@@ -8,7 +8,6 @@ source ./venv/bin/activate
 
 2. Install neccesary libraries
 ```
-
 pip install -r requirements.txt
 ```
 
